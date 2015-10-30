@@ -3,7 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
             <file>file:/C:/xampp/htdocs/test.loc/test.php</file>
+=======
+            <file>file:/C:/WebServers/home/test.loc/www/index.php</file>
+>>>>>>> 8a19c77d667eb8bd141b6a80b821fb99d4c3dea9
         </group>
     </open-files>
 </project-private>
