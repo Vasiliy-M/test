@@ -1,5 +1,5 @@
 <?php
 
-echo "test12355";
+echo "Privet,kak dela? My nameis Vasiliy.";
 
 ?>
